@@ -1,0 +1,16 @@
+current directory: /Users/shibano/fjord_boot_camp/rails/my_web_apps/books_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/shibano/.rbenv/versions/2.7.2/bin/ruby -I /Users/shibano/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210213-2873-uk4dic.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/shibano/fjord_boot_camp/rails/my_web_apps/books_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/shibano/fjord_boot_camp/rails/my_web_apps/books_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/shibano/fjord_boot_camp/rails/my_web_apps/books_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210213-2873-wed7pw/racc
